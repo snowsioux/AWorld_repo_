@@ -1,0 +1,1 @@
+Assets/Model/Architecture/low poly medieval buildings/Materials/roof_2_albedo.tga
